@@ -87,7 +87,7 @@ myproject/
 ## Live Demo
 
 Dit kan met Netlifiy en Vercel. Ik heb zelf vercel gebruikt.
-Hier is de link ()
+Hier is de link (https://vue-js-bzjn.vercel.app/)
 
 ## Bronnen
 
